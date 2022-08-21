@@ -1,0 +1,15 @@
+C:\Users\Виола\Desktop\homework\Z29\obj\Debug\net6.0\Z29.csproj.AssemblyReference.cache
+C:\Users\Виола\Desktop\homework\Z29\obj\Debug\net6.0\Z29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виола\Desktop\homework\Z29\obj\Debug\net6.0\Z29.AssemblyInfoInputs.cache
+C:\Users\Виола\Desktop\homework\Z29\obj\Debug\net6.0\Z29.AssemblyInfo.cs
+C:\Users\Виола\Desktop\homework\Z29\obj\Debug\net6.0\Z29.csproj.CoreCompileInputs.cache
+C:\Users\Виола\Desktop\homework\Z29\bin\Debug\net6.0\Z29.exe
+C:\Users\Виола\Desktop\homework\Z29\bin\Debug\net6.0\Z29.deps.json
+C:\Users\Виола\Desktop\homework\Z29\bin\Debug\net6.0\Z29.runtimeconfig.json
+C:\Users\Виола\Desktop\homework\Z29\bin\Debug\net6.0\Z29.dll
+C:\Users\Виола\Desktop\homework\Z29\bin\Debug\net6.0\ref\Z29.dll
+C:\Users\Виола\Desktop\homework\Z29\bin\Debug\net6.0\Z29.pdb
+C:\Users\Виола\Desktop\homework\Z29\obj\Debug\net6.0\Z29.dll
+C:\Users\Виола\Desktop\homework\Z29\obj\Debug\net6.0\ref\Z29.dll
+C:\Users\Виола\Desktop\homework\Z29\obj\Debug\net6.0\Z29.pdb
+C:\Users\Виола\Desktop\homework\Z29\obj\Debug\net6.0\Z29.genruntimeconfig.cache
