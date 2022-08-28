@@ -1,0 +1,15 @@
+C:\Users\Виола\Desktop\homework\Z43\bin\Debug\net6.0\Z43.exe
+C:\Users\Виола\Desktop\homework\Z43\bin\Debug\net6.0\Z43.deps.json
+C:\Users\Виола\Desktop\homework\Z43\bin\Debug\net6.0\Z43.runtimeconfig.json
+C:\Users\Виола\Desktop\homework\Z43\bin\Debug\net6.0\Z43.dll
+C:\Users\Виола\Desktop\homework\Z43\bin\Debug\net6.0\ref\Z43.dll
+C:\Users\Виола\Desktop\homework\Z43\bin\Debug\net6.0\Z43.pdb
+C:\Users\Виола\Desktop\homework\Z43\obj\Debug\net6.0\Z43.csproj.AssemblyReference.cache
+C:\Users\Виола\Desktop\homework\Z43\obj\Debug\net6.0\Z43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виола\Desktop\homework\Z43\obj\Debug\net6.0\Z43.AssemblyInfoInputs.cache
+C:\Users\Виола\Desktop\homework\Z43\obj\Debug\net6.0\Z43.AssemblyInfo.cs
+C:\Users\Виола\Desktop\homework\Z43\obj\Debug\net6.0\Z43.csproj.CoreCompileInputs.cache
+C:\Users\Виола\Desktop\homework\Z43\obj\Debug\net6.0\Z43.dll
+C:\Users\Виола\Desktop\homework\Z43\obj\Debug\net6.0\ref\Z43.dll
+C:\Users\Виола\Desktop\homework\Z43\obj\Debug\net6.0\Z43.pdb
+C:\Users\Виола\Desktop\homework\Z43\obj\Debug\net6.0\Z43.genruntimeconfig.cache
