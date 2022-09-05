@@ -316,6 +316,170 @@
 //     return Convert.ToInt32(Console.ReadLine());
 // }
 
+// ***********************************************************************************************************************
+
+// int rows = ReadInt("Введите количество строк: ");
+// int columns = ReadInt("Введите количество столбцов: ");
+// int[,] numbers = new int[rows, columns];
+// FillArray(numbers);
+// PrintArray(numbers);
+
+// int firstRow = 0;
+// int secondRow = numbers.GetLength(0) - 1;
+
+// for (int i = 0; i < numbers.GetLength(1); i++)
+// {
+//     int temp = numbers[firstRow, i];
+//     numbers[firstRow, i] = numbers[secondRow, i];
+//     numbers[secondRow, i] = temp;
+// }
+// PrintArray(numbers);
+
+// void FillArray(int[,] array)
+// {
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         {
+//             array[i, j] = new Random().Next(1, 10);
+//         }
+//     }
+// }
+// void PrintArray(int[,] array)
+// {
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         {
+//             Console.Write(array[i, j] + " ");
+//         }
+//         Console.WriteLine();
+//     }
+//     Console.WriteLine("\n");
+// }
+
+// int ReadInt(string message)
+// {
+//     Console.Write(message);
+//     return Convert.ToInt32(Console.ReadLine());
+// }
+
+// ****************************************************************************************************************
+
+// int rows = ReadInt("Введите количество строк: ");
+// int columns = ReadInt("Введите количество столбцов: ");
+// int[,] numbers = new int[rows, columns];
+// FillArray(numbers);
+// PrintArray(numbers);
+
+// if(rows != columns)
+// {
+//     Console.WriteLine("Транспонировать невозможно!");
+//     return;
+// }
+
+// int[,] reverseNumbers = new int[numbers.GetLength(1), numbers.GetLength(0)];
+// for (int i = 0; i < numbers.GetLength(0); i++)
+// {
+//     for (int j = 0; j < numbers.GetLength(1); j++)
+//     {
+//         reverseNumbers[i, j] = numbers[j, i];
+//     }
+// }
+// PrintArray(reverseNumbers);
+
+// void FillArray(int[,] array)
+// {
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         {
+//             array[i, j] = new Random().Next(1, 10);
+//         }
+//     }
+// }
+
+// void PrintArray(int[,] array)
+// {
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         {
+//             Console.Write(array[i, j] + " ");
+//         }
+//         Console.WriteLine();
+//     }
+//     Console.WriteLine("\n");
+// }
+
+// int ReadInt(string message)
+// {
+//     Console.Write(message);
+//     return Convert.ToInt32(Console.ReadLine());
+// }
+// Задача 57: Составить 
+// { 1, 9, 9, 0, 2, 8, 0, 9 }
+
+// 0 встречается 2 раза 
+// 1 встречается 1 раз 
+// 1, 2, 3 
+// 4, 6, 1 
+// 2, 1, 6
+
+// 1 встречается 3 раза 
+// 2 встречается 2 раз 
+// 3 встречается 1 раз 
+// 4 встречается 1 раз 
+// 6 встречается 2 раза
+
+void PrintArray(int[,] array)
+{
+    for (int i=0; i<array.GetLength(0); i++)
+    {
+        for (int j=0; j<array.GetLength(1); j++)
+        {
+            Console.Write(array[i, j]+" ");
+        }
+        Console.WriteLine();
+    }
+}
+
+
+Console.WriteLine("Введите количество строк:");
+int rows = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите количество столбцов:");
+int columns = Convert.ToInt32(Console.ReadLine());
+int[,] array = new int[rows,columns];
+for (int i=0; i<rows; i++)
+{
+    for (int j=0; j<columns; j++)
+    {
+        array[i, j] = new Random().Next(1, 10);
+    }
+}
+PrintArray(array);
+int max = array[0, 0];
+for (int i=0; i<rows; i++)
+{
+    for (int j=0; j<columns; j++)
+    {
+        if (array[i, j] > max) max = array[i, j];
+    }
+}
+int[] counter = new int[max];
+for (int i=0; i<rows; i++)
+{
+    for (int j=0; j<columns; j++)
+    {
+        counter[array[i, j]-1] += 1;
+    }
+}
+for (int i=0; i<counter.Length; i++)
+{
+    if (counter[i] == 0) continue;
+    Console.WriteLine($"Число {i+1} встречается {counter[i]} раз(а)");
+}
+
 
 
 

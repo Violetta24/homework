@@ -1,0 +1,15 @@
+C:\Users\Виола\Desktop\homework\S40\bin\Debug\net6.0\S40.exe
+C:\Users\Виола\Desktop\homework\S40\bin\Debug\net6.0\S40.deps.json
+C:\Users\Виола\Desktop\homework\S40\bin\Debug\net6.0\S40.runtimeconfig.json
+C:\Users\Виола\Desktop\homework\S40\bin\Debug\net6.0\S40.dll
+C:\Users\Виола\Desktop\homework\S40\bin\Debug\net6.0\ref\S40.dll
+C:\Users\Виола\Desktop\homework\S40\bin\Debug\net6.0\S40.pdb
+C:\Users\Виола\Desktop\homework\S40\obj\Debug\net6.0\S40.csproj.AssemblyReference.cache
+C:\Users\Виола\Desktop\homework\S40\obj\Debug\net6.0\S40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виола\Desktop\homework\S40\obj\Debug\net6.0\S40.AssemblyInfoInputs.cache
+C:\Users\Виола\Desktop\homework\S40\obj\Debug\net6.0\S40.AssemblyInfo.cs
+C:\Users\Виола\Desktop\homework\S40\obj\Debug\net6.0\S40.csproj.CoreCompileInputs.cache
+C:\Users\Виола\Desktop\homework\S40\obj\Debug\net6.0\S40.dll
+C:\Users\Виола\Desktop\homework\S40\obj\Debug\net6.0\ref\S40.dll
+C:\Users\Виола\Desktop\homework\S40\obj\Debug\net6.0\S40.pdb
+C:\Users\Виола\Desktop\homework\S40\obj\Debug\net6.0\S40.genruntimeconfig.cache
